@@ -2,7 +2,7 @@
 
 <h3 align="left">✨ About me:</h3>
 <ul>
-    <li>🎓 Software Engineering Student at FERIT</li>
+    <li>🎓 univ. mag. ing. comp.
     <li>🔍 I'm interested in machine learning and frontend development</li>
 </ul>
 <hr>
